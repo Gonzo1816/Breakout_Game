@@ -33,7 +33,9 @@ Miguel Guimarães -> https://github.com/MiguelGuimaraes37;
 
 Ines Paulino -> https://github.com/inespaulino.
 
-Upcoming Features
+Upcoming Features:
+
 We are currently working on adding a feature that will allow players to restart the game after it ends.
+
 
 We hope you enjoy playing our game and that it brings back memories of the original Breakout!
