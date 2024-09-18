@@ -11,7 +11,9 @@ Game Controls:
 Game Views:
 
 Winning Screen:
-![image](https://github.com/user-attachments/assets/a17279d5-d9e0-4a62-916e-e7bb3faa6612)
+
+![image](https://github.com/user-attachments/assets/52987634-a27c-4dbf-a091-d726885ee52b)
+
 
 Losing Screen:
 
